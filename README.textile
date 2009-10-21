@@ -1,0 +1,13 @@
+h1. GiantBomb!
+
+h2. What?
+
+A simple Ruby library to talk to "GiantBomb":http://www.giantbomb.com
+
+h2. How?
+
+h2. Install
+
+gem install giant_bomb
+
+Gem hosted on Gemcutter
