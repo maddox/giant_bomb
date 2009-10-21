@@ -79,8 +79,9 @@ class GiantBombTest < Test::Unit::TestCase
       
       context 'with sketchy data' do
         setup do
-          stub_get('/search/?api_key=key&query=halo&resources=game&format=json', 'sketchy_results.json')
-          @game = @gb.find_game('halo').first
+          stub_get('/search/?api_key=key&query=halo2&resources=game&format=json', 'sketchy_results.json')
+          @game = @gb.find_game('halo2').first
+          puts @game.name
         end
         
         should 'handle not having date_added' do
