@@ -5,7 +5,7 @@
 
 Gem::Specification.new do |s|
   s.name = %q{giant_bomb}
-  s.version = "0.0.1"
+  s.version = "0.1.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Jon Maddox"]
@@ -23,8 +23,10 @@ Gem::Specification.new do |s|
      "README.textile",
      "Rakefile",
      "VERSION",
+     "giant_bomb.gemspec",
      "lib/giant_bomb.rb",
      "lib/giant_bomb/game.rb",
+     "lib/giant_bomb/httparty_icebox.rb",
      "lib/giant_bomb/search.rb",
      "test/fixtures/search.json",
      "test/fixtures/sketchy_results.json",
