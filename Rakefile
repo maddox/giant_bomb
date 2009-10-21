@@ -5,10 +5,10 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "giant_bomb"
-    gem.summary = %Q{TODO: one-line summary of your gem}
+    gem.summary = %Q{Simple library to talk to the awesome GiantBomb data}
     gem.description = %Q{TODO: longer description of your gem}
-    gem.email = "jon@jonsthoughtsoneverything.com"
-    gem.homepage = "http://github.com/maddox/giant_bomb"
+    gem.email = "jon@fanzter.com"
+    gem.homepage = "http://github.com/fanzter/giant_bomb"
     gem.authors = ["Jon Maddox"]
     gem.add_development_dependency "thoughtbot-shoulda"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
