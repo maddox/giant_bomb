@@ -96,6 +96,11 @@ class GiantBombTest < Test::Unit::TestCase
           assert_nil @game.date_last_updated
         end
 
+        should 'handle not having image urls' do
+          assert_equal Hash, @game.image.class
+          assert_equal 0, @game.image.keys.size
+        end
+
       end
 
 

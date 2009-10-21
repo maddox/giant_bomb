@@ -18,7 +18,7 @@ module GiantBomb
       @original_release_date = DateTime.parse(options["original_release_date"]) if options["original_release_date"]
       @date_added = DateTime.parse(options["date_added"]) if options["date_added"]
 
-      options["image"].each{|key,value| @image[key.gsub('_url', '').to_sym] = value }
+      options["image"].each{|key,value| @image[key.gsub('_url', '').to_sym] = value } if options["image"]
     end
     
   end
