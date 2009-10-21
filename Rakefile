@@ -6,10 +6,13 @@ begin
   Jeweler::Tasks.new do |gem|
     gem.name = "giant_bomb"
     gem.summary = %Q{Simple library to talk to the awesome GiantBomb data}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.description = %Q{Simple library to talkto the awesome GiantBomb data}
     gem.email = "jon@fanzter.com"
     gem.homepage = "http://github.com/fanzter/giant_bomb"
     gem.authors = ["Jon Maddox"]
+    gem.add_dependency('httparty', '>= 0.4.3')
+
+    gem.add_development_dependency('fakeweb')
     gem.add_development_dependency "thoughtbot-shoulda"
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
