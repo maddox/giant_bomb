@@ -4,7 +4,21 @@ h2. What?
 
 A simple Ruby library to talk to "GiantBomb":http://www.giantbomb.com
 
+It's super simple right now. All it can do is search games and return the shallow details.
+
 h2. How?
+
+<pre><code>
+require 'giant_bomb'
+gb = GiantBomb::Search.new("api_key")
+results = gb.find_game('Halo 3: ODST')
+
+halo = results.first
+
+halo.name => "Halo 3: ODST"
+halo.image[:super] => "http://media.giantbomb.com/uploads/1/14735/1101733-20090611232449_halo_3_odst_box_art_super.png"
+  
+</code></pre>
 
 h2. Install
 
