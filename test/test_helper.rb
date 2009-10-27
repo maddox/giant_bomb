@@ -8,6 +8,8 @@ $LOAD_PATH.unshift(File.join(File.dirname(__FILE__), '..', 'lib'))
 $LOAD_PATH.unshift(File.dirname(__FILE__))
 require 'giant_bomb'
 
+# FakeWeb.allow_net_connect = false
+
 class Test::Unit::TestCase
 end
 

@@ -1,25 +1,33 @@
 module GiantBomb
   class Game
-    attr_accessor :id, :name, :deck, :description, :date_last_updated, :original_release_date, :site_detail_url,
-                  :number_of_user_reviews, :date_added, :original_game_rating, :image
+    include Attributes
+    attr_reader :client
     
-    def initialize(options={})
-      @image = {}
+    attributes :id, :name, :deck, :description, :original_game_rating, :image
 
-      @id = options["id"]
-      @name = options["name"]
-      @deck = options["deck"]
-      @description = options["description"]
-      @site_detail_url = options["site_detail_url"]
-      @number_of_user_reviews = options["number_of_user_reviews"]
-      @original_game_rating = options["original_game_rating"]
+    attributes :number_of_user_reviews, :type => Integer
+    attributes :date_last_updated, :original_release_date, :date_added, :type => Date
 
-      @date_last_updated = DateTime.parse(options["date_last_updated"]) if options["date_last_updated"]
-      @original_release_date = DateTime.parse(options["original_release_date"]) if options["original_release_date"]
-      @date_added = DateTime.parse(options["date_added"]) if options["date_added"]
+    attributes :genres, :lazy => :get_info!, :type => Genre
+    attributes :publishers, :lazy => :get_info!, :type => Publisher
+    attributes :developers, :lazy => :get_info!, :type => Developer
 
-      options["image"].each{|key,value| @image[key.gsub('_url', '').to_sym] = value } if options["image"]
+    attributes :images, :lazy => :get_info!
+
+    alias_method :cover, :image
+    
+    def initialize(values, client)
+      @client = client
+      self.attributes = values
     end
+    
+    def get_info!
+      game = client.get_game_info(self.id)
+      @attributes.merge!(game.attributes) if game
+      @loaded = true
+    end
+    
+    
     
   end
 
