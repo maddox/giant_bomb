@@ -34,7 +34,9 @@ module GiantBomb
 
     def get_game(game_id)
       response = self.class.get("/game/#{game_id}/", :query => default_query_options)
-      Game.new(response["results"], self)
+      game = Game.new(response["results"], self)
+      game.loaded = true
+      game
     end
 
   end

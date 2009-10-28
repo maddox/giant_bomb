@@ -42,6 +42,10 @@ module GiantBomb
         @loaded
       end
 
+      def loaded=(loaded)
+        @loaded = loaded
+      end
+
       private
       def decode_raw_attribute(value, type)
         return nil unless value

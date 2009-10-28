@@ -1,0 +1,746 @@
+{
+    "number_of_page_results": 1,
+    "status_code": 1,
+    "error": "OK",
+    "results": {
+        "site_detail_url": "http://www.giantbomb.com/mega-man-x/61-9463/",
+        "characters": [{
+            "api_detail_url": "http://api.giantbomb.com/character/292/",
+            "id": 292,
+            "name": "Dr. Light"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/1261/",
+            "id": 1261,
+            "name": "Zero"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/1595/",
+            "id": 1595,
+            "name": "Boomer Kuwanger"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/1596/",
+            "id": 1596,
+            "name": "Sting Chameleon"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/1599/",
+            "id": 1599,
+            "name": "Storm Eagle"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/1601/",
+            "id": 1601,
+            "name": "Armored Armadillo"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/1611/",
+            "id": 1611,
+            "name": "Flame Mammoth"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/1533/",
+            "id": 1533,
+            "name": "Launch Octopus"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/1538/",
+            "id": 1538,
+            "name": "Chill Penguin"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/1544/",
+            "id": 1544,
+            "name": "Spark Mandrill"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/1474/",
+            "id": 1474,
+            "name": "Mega Man X"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/1837/",
+            "id": 1837,
+            "name": "Sigma"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/5052/",
+            "id": 5052,
+            "name": "Vile"
+        }],
+        "videos": [],
+        "deck": "Mega Man X, the spiritual successor to Mega Man, starts his own new series of adventures in Mega Man X for the SNES.",
+        "image": {
+            "screen_url": "http://media.giantbomb.com/uploads/1/14169/610998-mmxbox_screen.jpg",
+            "small_url": "http://media.giantbomb.com/uploads/1/14169/610998-mmxbox_small.jpg",
+            "thumb_url": "http://media.giantbomb.com/uploads/1/14169/610998-mmxbox_thumb.jpg",
+            "tiny_url": "http://media.giantbomb.com/uploads/1/14169/610998-mmxbox_tiny.jpg",
+            "super_url": "http://media.giantbomb.com/uploads/1/14169/610998-mmxbox_super.jpg"
+        },
+        "locations": [{
+            "api_detail_url": "http://api.giantbomb.com/location/744/",
+            "id": 744,
+            "name": "Jungle"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/location/719/",
+            "id": 719,
+            "name": "Underwater"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/location/180/",
+            "id": 180,
+            "name": "Laboratory"
+        }],
+        "themes": [{
+            "api_detail_url": "http://api.giantbomb.com/theme/3/",
+            "id": 3,
+            "name": "Sci-Fi"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/theme/9/",
+            "id": 9,
+            "name": "Cyberpunk"
+        }],
+        "platforms": [{
+            "api_detail_url": "http://api.giantbomb.com/platform/9/",
+            "id": 9,
+            "name": "SNES"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/platform/94/",
+            "id": 94,
+            "name": "PC"
+        }],
+        "expected_release_month": null,
+        "similar_games": [{
+            "api_detail_url": "http://api.giantbomb.com/game/18309/",
+            "id": 18309,
+            "name": "Ratchet & Clank"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/game/21115/",
+            "id": 21115,
+            "name": "Ratchet & Clank Future: Quest for Booty"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/game/15212/",
+            "id": 15212,
+            "name": "Ratchet & Clank Future: Tools of Destruction"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/game/10384/",
+            "id": 10384,
+            "name": "Jak II"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/game/9669/",
+            "id": 9669,
+            "name": "Jak 3"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/game/3479/",
+            "id": 3479,
+            "name": "Keith Courage in Alpha Zones"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/game/8292/",
+            "id": 8292,
+            "name": "Super Metroid"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/game/8846/",
+            "id": 8846,
+            "name": "The Legend of Zelda: The Wind Waker / Metroid Prime"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/game/20124/",
+            "id": 20124,
+            "name": "Cave Story"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/game/4350/",
+            "id": 4350,
+            "name": "Contra"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/game/1257/",
+            "id": 1257,
+            "name": "Blaster Master"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/game/4237/",
+            "id": 4237,
+            "name": "Contra 4"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/game/20206/",
+            "id": 20206,
+            "name": "Mega Man: Wily Wars"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/game/12296/",
+            "id": 12296,
+            "name": "Metal Storm"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/game/18041/",
+            "id": 18041,
+            "name": "Turrican II: The Final Fight"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/game/8583/",
+            "id": 8583,
+            "name": "Metal Slug Advance"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/game/791/",
+            "id": 791,
+            "name": "Demon's Crest"
+        }],
+        "images": [{
+            "screen_url": "http://media.giantbomb.com/uploads/0/7538/468438-mega_man_x___version_1.1__us_000_screen.png",
+            "small_url": "http://media.giantbomb.com/uploads/0/7538/468438-mega_man_x___version_1.1__us_000_small.png",
+            "thumb_url": "http://media.giantbomb.com/uploads/0/7538/468438-mega_man_x___version_1.1__us_000_thumb.png",
+            "tiny_url": "http://media.giantbomb.com/uploads/0/7538/468438-mega_man_x___version_1.1__us_000_tiny.png",
+            "super_url": "http://media.giantbomb.com/uploads/0/7538/468438-mega_man_x___version_1.1__us_000_super.png"
+        },
+        {
+            "screen_url": "http://media.giantbomb.com/uploads/0/7538/468437-mega_man_x___version_1.1__us_001_screen.png",
+            "small_url": "http://media.giantbomb.com/uploads/0/7538/468437-mega_man_x___version_1.1__us_001_small.png",
+            "thumb_url": "http://media.giantbomb.com/uploads/0/7538/468437-mega_man_x___version_1.1__us_001_thumb.png",
+            "tiny_url": "http://media.giantbomb.com/uploads/0/7538/468437-mega_man_x___version_1.1__us_001_tiny.png",
+            "super_url": "http://media.giantbomb.com/uploads/0/7538/468437-mega_man_x___version_1.1__us_001_super.png"
+        },
+        {
+            "screen_url": "http://media.giantbomb.com/uploads/0/7538/463985-mega_man_x___version_1.1__us_014_screen.png",
+            "small_url": "http://media.giantbomb.com/uploads/0/7538/463985-mega_man_x___version_1.1__us_014_small.png",
+            "thumb_url": "http://media.giantbomb.com/uploads/0/7538/463985-mega_man_x___version_1.1__us_014_thumb.png",
+            "tiny_url": "http://media.giantbomb.com/uploads/0/7538/463985-mega_man_x___version_1.1__us_014_tiny.png",
+            "super_url": "http://media.giantbomb.com/uploads/0/7538/463985-mega_man_x___version_1.1__us_014_super.png"
+        },
+        {
+            "screen_url": "http://media.giantbomb.com/uploads/0/7538/463983-mega_man_x___version_1.1__us_013_screen.png",
+            "small_url": "http://media.giantbomb.com/uploads/0/7538/463983-mega_man_x___version_1.1__us_013_small.png",
+            "thumb_url": "http://media.giantbomb.com/uploads/0/7538/463983-mega_man_x___version_1.1__us_013_thumb.png",
+            "tiny_url": "http://media.giantbomb.com/uploads/0/7538/463983-mega_man_x___version_1.1__us_013_tiny.png",
+            "super_url": "http://media.giantbomb.com/uploads/0/7538/463983-mega_man_x___version_1.1__us_013_super.png"
+        },
+        {
+            "screen_url": "http://media.giantbomb.com/uploads/0/7538/463981-mega_man_x___version_1.1__us_012_screen.png",
+            "small_url": "http://media.giantbomb.com/uploads/0/7538/463981-mega_man_x___version_1.1__us_012_small.png",
+            "thumb_url": "http://media.giantbomb.com/uploads/0/7538/463981-mega_man_x___version_1.1__us_012_thumb.png",
+            "tiny_url": "http://media.giantbomb.com/uploads/0/7538/463981-mega_man_x___version_1.1__us_012_tiny.png",
+            "super_url": "http://media.giantbomb.com/uploads/0/7538/463981-mega_man_x___version_1.1__us_012_super.png"
+        },
+        {
+            "screen_url": "http://media.giantbomb.com/uploads/0/7538/463979-mega_man_x___version_1.1__us_011_screen.png",
+            "small_url": "http://media.giantbomb.com/uploads/0/7538/463979-mega_man_x___version_1.1__us_011_small.png",
+            "thumb_url": "http://media.giantbomb.com/uploads/0/7538/463979-mega_man_x___version_1.1__us_011_thumb.png",
+            "tiny_url": "http://media.giantbomb.com/uploads/0/7538/463979-mega_man_x___version_1.1__us_011_tiny.png",
+            "super_url": "http://media.giantbomb.com/uploads/0/7538/463979-mega_man_x___version_1.1__us_011_super.png"
+        },
+        {
+            "screen_url": "http://media.giantbomb.com/uploads/0/7538/463978-mega_man_x___version_1.1__us_010_screen.png",
+            "small_url": "http://media.giantbomb.com/uploads/0/7538/463978-mega_man_x___version_1.1__us_010_small.png",
+            "thumb_url": "http://media.giantbomb.com/uploads/0/7538/463978-mega_man_x___version_1.1__us_010_thumb.png",
+            "tiny_url": "http://media.giantbomb.com/uploads/0/7538/463978-mega_man_x___version_1.1__us_010_tiny.png",
+            "super_url": "http://media.giantbomb.com/uploads/0/7538/463978-mega_man_x___version_1.1__us_010_super.png"
+        },
+        {
+            "screen_url": "http://media.giantbomb.com/uploads/0/7538/463977-mega_man_x___version_1.1__us_009_screen.png",
+            "small_url": "http://media.giantbomb.com/uploads/0/7538/463977-mega_man_x___version_1.1__us_009_small.png",
+            "thumb_url": "http://media.giantbomb.com/uploads/0/7538/463977-mega_man_x___version_1.1__us_009_thumb.png",
+            "tiny_url": "http://media.giantbomb.com/uploads/0/7538/463977-mega_man_x___version_1.1__us_009_tiny.png",
+            "super_url": "http://media.giantbomb.com/uploads/0/7538/463977-mega_man_x___version_1.1__us_009_super.png"
+        },
+        {
+            "screen_url": "http://media.giantbomb.com/uploads/0/7538/463976-mega_man_x___version_1.1__us_008_screen.png",
+            "small_url": "http://media.giantbomb.com/uploads/0/7538/463976-mega_man_x___version_1.1__us_008_small.png",
+            "thumb_url": "http://media.giantbomb.com/uploads/0/7538/463976-mega_man_x___version_1.1__us_008_thumb.png",
+            "tiny_url": "http://media.giantbomb.com/uploads/0/7538/463976-mega_man_x___version_1.1__us_008_tiny.png",
+            "super_url": "http://media.giantbomb.com/uploads/0/7538/463976-mega_man_x___version_1.1__us_008_super.png"
+        },
+        {
+            "screen_url": "http://media.giantbomb.com/uploads/0/7538/463975-mega_man_x___version_1.1__us_007_screen.png",
+            "small_url": "http://media.giantbomb.com/uploads/0/7538/463975-mega_man_x___version_1.1__us_007_small.png",
+            "thumb_url": "http://media.giantbomb.com/uploads/0/7538/463975-mega_man_x___version_1.1__us_007_thumb.png",
+            "tiny_url": "http://media.giantbomb.com/uploads/0/7538/463975-mega_man_x___version_1.1__us_007_tiny.png",
+            "super_url": "http://media.giantbomb.com/uploads/0/7538/463975-mega_man_x___version_1.1__us_007_super.png"
+        }],
+        "id": 9463,
+        "aliases": "Rockman X",
+        "first_appearance_locations": [],
+        "genres": [{
+            "api_detail_url": "http://api.giantbomb.com/genre/1/",
+            "id": 1,
+            "name": "Action"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/genre/41/",
+            "id": 41,
+            "name": "Platformer"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/genre/4/",
+            "id": 4,
+            "name": "Adventure"
+        }],
+        "people": [{
+            "api_detail_url": "http://api.giantbomb.com/person/40316/",
+            "role": "Music",
+            "id": 40316,
+            "name": "Yuki Iwai"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/person/19465/",
+            "role": "Music",
+            "id": 19465,
+            "name": "Toshihiko Horiyama"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/person/19467/",
+            "role": "Designer",
+            "id": 19467,
+            "name": "Tokuro Fujiwara"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/person/19459/",
+            "role": "Designer",
+            "id": 19459,
+            "name": "Ikki Tazaki"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/person/19460/",
+            "role": "Designer",
+            "id": 19460,
+            "name": "Scr. Damashii"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/person/19461/",
+            "role": "Designer",
+            "id": 19461,
+            "name": "Yasuyo Kondou"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/person/19462/",
+            "role": "Music",
+            "id": 19462,
+            "name": "Setsuo Yamamoto"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/person/19463/",
+            "role": "Music",
+            "id": 19463,
+            "name": "Makoto Tomozawa"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/person/19464/",
+            "role": "Music",
+            "id": 19464,
+            "name": "Yuko Takehara"
+        }],
+        "original_release_date": "1993-12-17 00:00:00",
+        "first_appearance_characters": [{
+            "api_detail_url": "http://api.giantbomb.com/character/1261/",
+            "id": 1261,
+            "name": "Zero"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/1474/",
+            "id": 1474,
+            "name": "Mega Man X"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/1837/",
+            "id": 1837,
+            "name": "Sigma"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/5052/",
+            "id": 5052,
+            "name": "Vile"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/1601/",
+            "id": 1601,
+            "name": "Armored Armadillo"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/1544/",
+            "id": 1544,
+            "name": "Spark Mandrill"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/1533/",
+            "id": 1533,
+            "name": "Launch Octopus"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/1538/",
+            "id": 1538,
+            "name": "Chill Penguin"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/1599/",
+            "id": 1599,
+            "name": "Storm Eagle"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/1596/",
+            "id": 1596,
+            "name": "Sting Chameleon"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/1611/",
+            "id": 1611,
+            "name": "Flame Mammoth"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/character/1595/",
+            "id": 1595,
+            "name": "Boomer Kuwanger"
+        }],
+        "developers": [{
+            "api_detail_url": "http://api.giantbomb.com/company/367/",
+            "id": 367,
+            "name": "Capcom"
+        }],
+        "first_appearance_objects": [],
+        "expected_release_year": null,
+        "publishers": [{
+            "api_detail_url": "http://api.giantbomb.com/company/367/",
+            "id": 367,
+            "name": "Capcom"
+        }],
+        "date_last_updated": "2009-08-24 04:23:48",
+        "expected_release_quarter": null,
+        "first_appearance_people": [{
+            "api_detail_url": "http://api.giantbomb.com/person/40316/",
+            "id": 40316,
+            "name": "Yuki Iwai"
+        }],
+        "description": "<h3><br /></h3><h2>Overview</h2> The first installment of the <a href=\"http://www.giantbomb.com/mega-man-x/62-524/\">             Mega Man X</a> sub-series, this game introduced players to new mechanics such as dashing, wall-jumping, and finding hidden upgrades throughout the levels, something which would carry on and become an essential part of each X game to follow.&nbsp; Released 1993 by <a href=\"http://www.giantbomb.com/capcom/65-367/\">             Capcom</a> and later ported to the PC in 1995, it was later remade in 2005 for the PSP with the name <a href=\"/mega-man-maverick-hunter-x/61-11913/\">            Mega Man Maverick Hunter X</a>. The remake featured enhanced 3D character models and backgrounds, remixed music, some retuned level designs, and the ability to play as <a href=\"/vile/94-5052/\">           Vile</a>.   This game was also included in the <a href=\"http://www.giantbomb.com/mega-man-x-collection/61-1483/\">             Mega Man X Collection</a> for the Nintendo Gamecube and  PlayStation 2. The lead designers were <u> </u>both <a href=\"/tokuro-fujiwara/72-19467/\">             Tokuro Fujiwara</a> (Producer) and <a href=\"/keiji-inafune/72-35794/\">             Keiji Inafune</a> (Characters) and the head composer was <a href=\"/setsuo-yamamoto/72-19462/\">             Setsuo Yamamoto</a>.<br /><br /><h2>Gameplay</h2>Unlike the core <a href=\"/mega-man-classic/62-626/\">          Mega Man</a> series, the X games are much faster and more intense.&nbsp; From the moment you press start, the game has you <a href=\"/wall-jump/92-5/\">             wall jumping</a> for your life up onto  destroyed highways crawling with angry Mavericks <div class=\"js-item-cage\" rel=\"image\" title=\"image\" id=\"965929\"><div class=\"wiki-img-right\"><div class=\"wiki-img-thumb\"><a href=\"http://media.giantbomb.com/uploads/0/7538/965929-248337_megaman_x_00038_super_super.jpg\" title=\"The opening highway stage.\"><img id=\"965929\" src=\"http://media.giantbomb.com/uploads/0/7538/965929-248337_megaman_x_00038_super_thumb.jpg\" alt=\"The opening highway stage.\" /></a><div class=\"item-caption p-4\">The opening highway stage.</div></div></div></div>only for you to end up fighting a <a href=\"/gundam/62-290/\">         mobile suit</a>ed Vile, who, for the first time in the franchise, is a boss that you cannot defeat. While there is a lot different, the structure of the game is similar: fight 8 boss Mavericks in any order, exploiting their weaknesses to defeat them more easily, and then go through a few final levels before you fight the final boss, <a href=\"/sigma/94-1837/\">        Sigma</a>. The levels consist of you running, dashing, jumping, and wall-kicking frantically to avoid many difficult obstacles and to find hidden <a href=\"/upgradeable-weapons/92-133/\">       Upgrade Capsules</a>. There are four capsules hidden throughout the game's 8 stages, with each one containing one of four body parts: arm, leg, torso, and head. Once you collect all four of them, and with enough skill, you will feel like an unstoppable badass. Once you reach the end of a level, you will be confronted by a boss robot that you must fight with everything you have to defeat it, and take it's weapon. It is worth noting that the bosses in this game are much more difficult and intelligent than those found in the classic Mega Man series. <br />&nbsp; <br /><h3>Upgrades </h3>Throughout the game if you are lucky you may stumble upon a large blue capsule that when approached will show you a hologram of Dr. Light, the guy who made you.&nbsp; Depending on which capsule you found,he will brief you on what the upgrade does and then give you the pleasure of stepping into the capsule. Here is a list of all the upgrades and the area that they are in.<br /><br /><b>Speed Boots </b><br />-These will give you the ability to dash.<br />Location-Chill Penguin's lair<br />Note: This is required to pass. <br /><br /><b>Body Armor </b><br />-Simply decreases the damage you take by half.<br />Location-Sting Chameleon's lair<br /><h3><div class=\"js-item-cage\" rel=\"image\" title=\"image\" id=\"965619\"><div class=\"wiki-img-right\"><div class=\"wiki-img-thumb\"><a href=\"http://media.giantbomb.com/uploads/0/4527/965619-479459_mega_man_x2014_super_super.png\" title=\"Upgrade Capsule\"><img id=\"965619\" src=\"http://media.giantbomb.com/uploads/0/4527/965619-479459_mega_man_x2014_super_thumb.png\" alt=\"Upgrade Capsule\" /></a><div class=\"item-caption p-4\">Upgrade Capsule</div></div></div></div></h3> <br /><b>Helmet </b><br />-Allows you to destroy certain blocks by headbutting them<br />Location-Storm Eagle's lair<br /><b><br />Charge&nbsp;</b> <br />-allows you to charge one stage higher to shoot multiple blasts<br />Location-Flame Mammoth's lair<br /><br /><b>Special/Secret </b><br />-If you have played <a href=\"../../street-fighter/61-1235/\" rel=\"nofollow\">            Street Fighter</a> then you will recognize this one. It is the <a href=\"../../hadouken/92-668/\" rel=\"nofollow\">            Hadouken</a> move. You fire large blue blasts out of your hands, which kills bosses in one hit. It is performed by simply performing the famed quarter-circle motion that you would do in any Street Fighter game.<br />Location: Armored Armadillo's lair at the end of the level before you enter the boss hallway. <br />Kill yourself three times, and then climb up onto the ledge above where the boss door is. A <a href=\"../../karate-gi/93-1906/\" rel=\"nofollow\">     Gi</a>-clad Dr. Light will congratulate you and you will get the upgrade.&nbsp;                                                                                              <h2>Bosses (Maverick Reploids)<br /></h2><h3>Chill Penguin <b><br /></b><div class=\"js-item-cage\" rel=\"image\" title=\"image\" id=\"965612\"><div class=\"wiki-img-right\"><div class=\"wiki-img-thumb\"><a href=\"http://media.giantbomb.com/uploads/0/4527/965612-mega_man_x_chill_penguin_title_super.png\" title=\"Chill Penguin\"><img id=\"965612\" src=\"http://media.giantbomb.com/uploads/0/4527/965612-mega_man_x_chill_penguin_title_thumb.png\" alt=\"Chill Penguin\" /></a><div class=\"item-caption p-4\">Chill Penguin</div></div></div></div></h3> <ul class=\"plain-list\"><li>Height: 5.34 ft</li> <li>Weight: 237 lbs</li> <li>Attacks: Shotgun Ice, Sliding</li> <li>Weakness: Fire Wave</li> </ul> <h3><br /></h3><h3>Storm Eagle</h3><ul class=\"plain-list\"><li>Height: 8.20 ft</li></ul><ul class=\"plain-list\"> <li>Weight: 275 lbs</li> <li>Attacks: Storm Tornado, Diving</li> <li>Weakness: Chameleon Sting</li> </ul> <br /><h3><div class=\"js-item-cage\" rel=\"image\" title=\"image\" id=\"965615\"><div class=\"wiki-img-right\"><div class=\"wiki-img-thumb\"><a href=\"http://media.giantbomb.com/uploads/0/4527/965615-mega_man_x_flame_mammoth_title_super.png\" title=\"Flame Mammoth\"><img id=\"965615\" src=\"http://media.giantbomb.com/uploads/0/4527/965615-mega_man_x_flame_mammoth_title_thumb.png\" alt=\"Flame Mammoth\" /></a><div class=\"item-caption p-4\">Flame Mammoth</div></div></div></div></h3><h3>Flame Mammoth</h3><ul class=\"plain-list\"><li>Height: 10.5 ft</li></ul><ul class=\"plain-list\"> <li>Weight: 719 lbs</li> <li>Attacks: Fire Wave, Oiling, Jump Press</li> <li>Weakness: Storm Tornado</li> </ul> <br /> Spark Mandrill<ul class=\"plain-list\"><li>Height: 10.0 ft</li> <li>Weight: 646 lbs</li> <li>Attacks: Electric Spark, Dash Punch</li> <li>Weakness: Shotgun Ice</li> </ul> <br /><h3><div class=\"js-item-cage\" rel=\"image\" title=\"image\" id=\"965616\"><div class=\"wiki-img-right\"><div class=\"wiki-img-thumb\"><a href=\"http://media.giantbomb.com/uploads/0/4527/965616-mega_man_x_armored_armadillo_title_super.png\" title=\"Armored Armadillo\"><img id=\"965616\" src=\"http://media.giantbomb.com/uploads/0/4527/965616-mega_man_x_armored_armadillo_title_thumb.png\" alt=\"Armored Armadillo\" /></a><div class=\"item-caption p-4\">Armored Armadillo</div></div></div></div></h3><h3>Armored Armadillo</h3><ul class=\"plain-list\"><li>Height: 6.36 ft</li> <li>Weight: 510 lbs</li> <li>Attacks: Rolling Shield, Guarding</li> <li>Weakness: Electric Spark</li> </ul> <br /><h3>Launch Octopus</h3><ul class=\"plain-list\"><li>Height: 7.80 ft</li> <li>Weight: 348 lbs</li> <li>Attacks: Homing Torpedo, Energy Drain</li> <li>Weakness: Rolling Shield (Boomerang Cutter can also cut off his tentacles, preventing him from using certain attacks)</li> </ul> <div class=\"js-item-cage\" rel=\"image\" title=\"image\" id=\"965617\"><div class=\"wiki-img-right\"><div class=\"wiki-img-thumb\"><a href=\"http://media.giantbomb.com/uploads/0/4527/965617-mega_man_x_boomer_kuwanger_title_super.png\" title=\"Boomer Kuwanger\"><img id=\"965617\" src=\"http://media.giantbomb.com/uploads/0/4527/965617-mega_man_x_boomer_kuwanger_title_thumb.png\" alt=\"Boomer Kuwanger\" /></a><div class=\"item-caption p-4\">Boomer Kuwanger</div></div></div></div><h3><br /></h3><h3>Boomer Kuwanger</h3><ul class=\"plain-list\"><li>Height: 7.93 ft</li> <li>Weight: 206 lbs</li> <li>Attacks: Boomerang Cutter, Dead Lift</li> <li>Weakness: Homing Torpedo</li> </ul> <br /><h3>Sting Chameleon</h3><ul class=\"plain-list\"><li>Height: 5.80 ft</li> <li>Weight: 169 lbs</li> <li>Attacks: Chameleon  Sting, Iron Tongue</li> <li>Weakness: Boomerang Cutter</li> </ul>",
+        "releases": [{
+            "api_detail_url": "http://api.giantbomb.com/release/78836/",
+            "id": 78836,
+            "name": "Mega Man X"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/release/78834/",
+            "id": 78834,
+            "name": "Mega Man X"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/release/78835/",
+            "id": 78835,
+            "name": "Rockman X"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/release/76685/",
+            "id": 76685,
+            "name": "Mega Man X"
+        }],
+        "franchises": [{
+            "api_detail_url": "http://api.giantbomb.com/franchise/524/",
+            "id": 524,
+            "name": "Mega Man X"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/franchise/523/",
+            "id": 523,
+            "name": "Mega Man"
+        }],
+        "api_detail_url": "http://api.giantbomb.com/game/9463/",
+        "number_of_user_reviews": 2,
+        "objects": [{
+            "api_detail_url": "http://api.giantbomb.com/object/183/",
+            "id": 183,
+            "name": "Spikes"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/object/140/",
+            "id": 140,
+            "name": "Laser"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/object/518/",
+            "id": 518,
+            "name": "Mega Buster"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/object/70/",
+            "id": 70,
+            "name": "Lightsaber"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/object/1027/",
+            "id": 1027,
+            "name": "Charge Beam"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/object/737/",
+            "id": 737,
+            "name": "Helmet"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/object/230/",
+            "id": 230,
+            "name": "Robot"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/object/97/",
+            "id": 97,
+            "name": "Bomb"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/object/541/",
+            "id": 541,
+            "name": "Trip Mine"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/object/263/",
+            "id": 263,
+            "name": "Fish"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/object/77/",
+            "id": 77,
+            "name": "1-up"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/object/46/",
+            "id": 46,
+            "name": "Exoskeleton"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/object/120/",
+            "id": 120,
+            "name": "Fireball"
+        }],
+        "original_game_rating": null,
+        "date_added": "2008-04-01 15:50:35",
+        "first_appearance_concepts": [{
+            "api_detail_url": "http://api.giantbomb.com/concept/359/",
+            "id": 359,
+            "name": "Mavericks"
+        }],
+        "name": "Mega Man X",
+        "killed_characters": [],
+        "reviews": [],
+        "concepts": [{
+            "api_detail_url": "http://api.giantbomb.com/concept/38/",
+            "id": 38,
+            "name": "Password"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/3/",
+            "id": 3,
+            "name": "Projectile"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/2/",
+            "id": 2,
+            "name": "Easter Egg"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/22/",
+            "id": 22,
+            "name": "Cutscene"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/130/",
+            "id": 130,
+            "name": "Health"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/178/",
+            "id": 178,
+            "name": "Level Selection"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/299/",
+            "id": 299,
+            "name": "Side-Scrolling"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/229/",
+            "id": 229,
+            "name": "Bosses"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/359/",
+            "id": 359,
+            "name": "Mavericks"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/404/",
+            "id": 404,
+            "name": "Lightning Manipulation"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/725/",
+            "id": 725,
+            "name": "Death"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/309/",
+            "id": 309,
+            "name": "Explosion"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/739/",
+            "id": 739,
+            "name": "Arm Cannon"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/1060/",
+            "id": 1060,
+            "name": "Charge"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/545/",
+            "id": 545,
+            "name": "Forced Defeat"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/1427/",
+            "id": 1427,
+            "name": "2D"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/674/",
+            "id": 674,
+            "name": "Instant Kill"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/1465/",
+            "id": 1465,
+            "name": "Boss Rush"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/372/",
+            "id": 372,
+            "name": "Game Over"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/1500/",
+            "id": 1500,
+            "name": "Attachments "
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/1570/",
+            "id": 1570,
+            "name": "Mascot"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/1561/",
+            "id": 1561,
+            "name": "Boss Pattern"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/740/",
+            "id": 740,
+            "name": "Instant Death"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/841/",
+            "id": 841,
+            "name": "Recurring Boss"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/683/",
+            "id": 683,
+            "name": "Unbeatable Bosses"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/1688/",
+            "id": 1688,
+            "name": "Bats"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/1806/",
+            "id": 1806,
+            "name": "Extra Life"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/532/",
+            "id": 532,
+            "name": "Lava Stage"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/1713/",
+            "id": 1713,
+            "name": "Water Level"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/491/",
+            "id": 491,
+            "name": "Sprite"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/2290/",
+            "id": 2290,
+            "name": "Dash"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/968/",
+            "id": 968,
+            "name": "Player Character"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/325/",
+            "id": 325,
+            "name": "Moving Platforms"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/2076/",
+            "id": 2076,
+            "name": "Ice Stage"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/133/",
+            "id": 133,
+            "name": "Upgradeable Weapons"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/379/",
+            "id": 379,
+            "name": "Jump"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/3742/",
+            "id": 3742,
+            "name": "Met"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/3052/",
+            "id": 3052,
+            "name": "Nintendo Seal of Quality"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/3780/",
+            "id": 3780,
+            "name": "Fish"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/3627/",
+            "id": 3627,
+            "name": "Crushing Trap"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/3530/",
+            "id": 3530,
+            "name": "Heroic Sacrifice"
+        },
+        {
+            "api_detail_url": "http://api.giantbomb.com/concept/1118/",
+            "id": 1118,
+            "name": "Underwater gameplay"
+        }]
+    },
+    "limit": 1,
+    "offset": 0,
+    "number_of_total_results": 1
+}
