@@ -2,8 +2,8 @@ module GiantBomb
   class Search
     include HTTParty
     format :json
-    # include HTTParty::Icebox
-    # cache :store => 'file', :timeout => 120, :location => Dir.tmpdir
+    include HTTParty::Icebox
+    cache :store => 'file', :timeout => 120, :location => Dir.tmpdir
     
     base_uri 'api.giantbomb.com'
 
