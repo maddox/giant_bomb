@@ -25,10 +25,7 @@ module GiantBomb
     end
 
     def get_game_info(game_id)
-      field_list = %w{developers genres images publishers}
-      options = {"field_list" => field_list.join(',')}
-      options.merge!(default_query_options)
-      response = self.class.get("/game/#{game_id}/", :query => options)
+      response = self.class.get("/game/#{game_id}/", :query => default_query_options)
       Game.new(response["results"], self)
     end
 

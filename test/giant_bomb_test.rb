@@ -28,7 +28,7 @@ class GiantBombTest < Test::Unit::TestCase
       context 'with good data' do
         setup do
           stub_get('/search?format=json&api_key=key&resources=game&query=halo', 'search.json')
-          stub_get('/game/24035/?format=json&api_key=key&field_list=developers%2Cgenres%2Cimages%2Cpublishers', 'get_info.json')
+          stub_get('/game/24035/?format=json&api_key=key', 'get_info.json')
                     
           @game = @gb.find_game('halo').first
         end
