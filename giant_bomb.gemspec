@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = %q{giant_bomb}
-  s.version = "0.3.0"
+  s.version = "0.3.1"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Jon Maddox"]
-  s.date = %q{2009-10-27}
+  s.date = %q{2010-02-03}
   s.description = %q{Simple library to talkto the awesome GiantBomb data}
   s.email = %q{jon@fanzter.com}
   s.extra_rdoc_files = [
@@ -34,8 +34,10 @@ Gem::Specification.new do |s|
      "lib/giant_bomb/publisher.rb",
      "lib/giant_bomb/search.rb",
      "test/fixtures/get_info.json",
+     "test/fixtures/mega_man_x.json",
      "test/fixtures/search.json",
      "test/fixtures/sketchy_results.json",
+     "test/game_test.rb",
      "test/giant_bomb_test.rb",
      "test/test_helper.rb"
   ]
@@ -45,7 +47,8 @@ Gem::Specification.new do |s|
   s.rubygems_version = %q{1.3.5}
   s.summary = %q{Simple library to talk to the awesome GiantBomb data}
   s.test_files = [
-    "test/giant_bomb_test.rb",
+    "test/game_test.rb",
+     "test/giant_bomb_test.rb",
      "test/test_helper.rb"
   ]
 
