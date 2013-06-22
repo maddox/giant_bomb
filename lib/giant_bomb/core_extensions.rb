@@ -44,10 +44,6 @@ class Object
     respond_to?(:empty?) ? empty? : !self
   end
 
-  def try(method)
-    send method if respond_to? method
-  end
-
 end
 
 
@@ -74,4 +70,3 @@ class String
     self !~ /\S/
   end
 end
-
