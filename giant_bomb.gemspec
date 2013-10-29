@@ -5,11 +5,11 @@
 
 Gem::Specification.new do |s|
   s.name = "giant_bomb"
-  s.version = "0.4.0"
+  s.version = "0.5.0"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Jon Maddox"]
-  s.date = "2013-06-22"
+  s.date = "2013-10-29"
   s.description = "Simple library to talkto the awesome GiantBomb data"
   s.email = "jon@fanzter.com"
   s.extra_rdoc_files = [
@@ -29,7 +29,6 @@ Gem::Specification.new do |s|
     "lib/giant_bomb/developer.rb",
     "lib/giant_bomb/game.rb",
     "lib/giant_bomb/genre.rb",
-    "lib/giant_bomb/httparty_icebox.rb",
     "lib/giant_bomb/publisher.rb",
     "lib/giant_bomb/search.rb",
     "test/fixtures/get_info.json",
@@ -42,11 +41,11 @@ Gem::Specification.new do |s|
   ]
   s.homepage = "http://github.com/fanzter/giant_bomb"
   s.require_paths = ["lib"]
-  s.rubygems_version = "1.8.23"
+  s.rubygems_version = "2.0.3"
   s.summary = "Simple library to talk to the awesome GiantBomb data"
 
   if s.respond_to? :specification_version then
-    s.specification_version = 3
+    s.specification_version = 4
 
     if Gem::Version.new(Gem::VERSION) >= Gem::Version.new('1.2.0') then
       s.add_runtime_dependency(%q<httparty>, [">= 0.4.3"])
